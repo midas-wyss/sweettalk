@@ -3,7 +3,7 @@ Deep learning-based language model for glycan sequences
 
 # Using Natural Language Processing to Learn the Grammar of Glycans
 
-This repository provides code for Bojar et al. 2020.
+This repository provides code for [Bojar et al. 2020](https://www.biorxiv.org/content/10.1101/2020.01.10.902114v1).
 
 # Abstract
 While nucleic acids and proteins receive ample attention, progress on understanding the structural and functional roles of carbohydrates has lagged behind. Here, we develop a language model for glycans, SweetTalk, taking into account glycan connectivity and composition. We use this model to investigate motifs in glycan substructures, classify them according to their O-/N-linkage, and predict their immunogenicity with an accuracy of ~92%, opening up the potential for rational glycoengineering.
